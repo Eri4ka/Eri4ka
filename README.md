@@ -17,6 +17,16 @@
 #### Utils
 - [My GULP template](https://github.com/Eri4ka/My-gulp-template)
 
+### My stack:
+- JavaScript
+- TypeScript
+- HTML5, CSS3
+- React
+- Redux, Redux toolkit, RTK Query
+- JQuery
+- Gulp, Webpack
+- SASS, PUG
+- Bootstrap
 <!--
 **Eri4ka/Eri4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
