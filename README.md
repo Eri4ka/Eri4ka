@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, i'm Erik</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">IT Project Manager and Frontend Developer</h3>
+
+### My projects:
+
+#### JS
+- [Gadget online store](https://github.com/Eri4ka/gadget_site) - on VanillaJS
+- [Landing](https://github.com/Eri4ka/jquery_site) - on JQuery
+
+#### React
+- [Gadget online store](https://github.com/Eri4ka/e-commerce) - on React, Redux toolkit, RTK Query(currently in development)
+- [Marvel page](https://github.com/Eri4ka/Marvel) - on React with marvel api
+- [Apple online store](https://github.com/Eri4ka/Apple-store) - on React with Bootstrap 5
+- [Empoyees CRUD](https://github.com/Eri4ka/Employees) - my first project on React
+
+#### Utils
+- [My GULP template](https://github.com/Eri4ka/My-gulp-template)
 
 <!--
 **Eri4ka/Eri4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
