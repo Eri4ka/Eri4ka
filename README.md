@@ -9,7 +9,7 @@
 - [Landing](https://github.com/Eri4ka/jquery_site) - on JQuery
 
 #### React
-- [Gadget online store](https://github.com/Eri4ka/e-commerce) - on React, Redux toolkit, RTK Query(currently in development)
+- [E-commerce online store](https://github.com/Eri4ka/e-commerce) - on React, Redux toolkit, RTK Query(currently in development)
 - [Marvel page](https://github.com/Eri4ka/Marvel) - on React with marvel api
 - [Apple online store](https://github.com/Eri4ka/Apple-store) - on React with Bootstrap 5
 - [Empoyees CRUD](https://github.com/Eri4ka/Employees) - my first project on React
