@@ -5,6 +5,7 @@
 
 #### React
 - [Online platform sdaem.by](https://github.com/Eri4ka/Sdaem-site) - on React, Next.js, Redux toolkit, Firebase, Unit-tests, Docker. Project uses Module architecture.
+- [Игра 5 букв (Веб-версия мобильной игры от Тинькофф)](https://github.com/Eri4ka/five-words) - on Typescript, React
 - [E-commerce online store](https://github.com/Eri4ka/e-commerce) - on React, Redux toolkit, RTK Query
 - [Marvel page](https://github.com/Eri4ka/Marvel) - on React with marvel api
 - [Apple online store](https://github.com/Eri4ka/Apple-store) - on React with Bootstrap 5
