@@ -1,5 +1,4 @@
-<h1 align="center">Hi, i'm Erik</a></h1>
-<h3 align="center">IT Project Manager and Frontend Developer</h3>
+<h1 align="center">Frontend Developer</h1>
 
 ### My projects:
 
@@ -29,6 +28,7 @@
 - Jest, React testing library
 - Bootstrap, CSS modules, Styled components, Formik, React slick, CSS transition
 - Firebase
+- Node.js, Express
 <!--
 **Eri4ka/Eri4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
