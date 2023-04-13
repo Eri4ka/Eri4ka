@@ -26,7 +26,7 @@
 - SCSS, PUG, BEM
 - Gulp, Webpack, Docker
 - Jest, React testing library
-- Bootstrap, CSS modules, Styled components, Formik, React slick, CSS transition
+- Bootstrap, CSS modules, Styled components, Formik, React slick, CSS transition, Framer Motion, Swiper
 - Firebase
 - Node.js, Express
 <!--
