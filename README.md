@@ -17,6 +17,7 @@
 
 - [Online platform sdaem.by](https://github.com/Eri4ka/Sdaem-site) - on TypeScript, Next.js, Redux toolkit, Firebase, Unit-tests, Docker. Project uses Module architecture.
 - [E-commerce](https://github.com/Eri4ka/simple-shop) - on TypeScript, Next.js, fake API.
+- [Веб-версия WhatsApp](https://github.com/Eri4ka/grapi) - on Typescript, React
 - [Игра 5 букв (Веб-версия мобильной игры от Тинькофф)](https://github.com/Eri4ka/five-words) - on Typescript, React
 - [E-commerce gadget store](https://github.com/Eri4ka/e-commerce) - on React, Redux toolkit, RTK Query
 - [Marvel page](https://github.com/Eri4ka/Marvel) - on React with marvel api
