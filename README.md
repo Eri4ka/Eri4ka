@@ -2,7 +2,7 @@
 
 <div align="center"> 
   <h3 >Main Stack </h3>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,react,nextjs,redux,nodejs, express" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,react,nextjs,redux,nodejs,express" />
   
   <h3 >Tools </h3>
     <img src="https://skillicons.dev/icons?i=docker,git,jest,firebase,bootstrap,gulp,pug,postman,figma" />
